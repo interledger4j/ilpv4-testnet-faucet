@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/starter-project/ilpv4-testnet-faucet/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/starter-project/ilpv4-testnet-faucet/static/js/main.a475cb08.chunk.js",
-    "main.js.map": "/starter-project/ilpv4-testnet-faucet/static/js/main.a475cb08.chunk.js.map",
-    "runtime-main.js": "/starter-project/ilpv4-testnet-faucet/static/js/runtime-main.7390ecf9.js",
-    "runtime-main.js.map": "/starter-project/ilpv4-testnet-faucet/static/js/runtime-main.7390ecf9.js.map",
-    "static/js/2.8ab47351.chunk.js": "/starter-project/ilpv4-testnet-faucet/static/js/2.8ab47351.chunk.js",
-    "static/js/2.8ab47351.chunk.js.map": "/starter-project/ilpv4-testnet-faucet/static/js/2.8ab47351.chunk.js.map",
-    "static/js/3.fcd36961.chunk.js": "/starter-project/ilpv4-testnet-faucet/static/js/3.fcd36961.chunk.js",
-    "static/js/3.fcd36961.chunk.js.map": "/starter-project/ilpv4-testnet-faucet/static/js/3.fcd36961.chunk.js.map",
-    "index.html": "/starter-project/ilpv4-testnet-faucet/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/starter-project/ilpv4-testnet-faucet/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.8ab47351.chunk.js.LICENSE.txt": "/starter-project/ilpv4-testnet-faucet/static/js/2.8ab47351.chunk.js.LICENSE.txt"
+    "main.css": "/ilpv4-testnet-faucet/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ilpv4-testnet-faucet/static/js/main.a475cb08.chunk.js",
+    "main.js.map": "/ilpv4-testnet-faucet/static/js/main.a475cb08.chunk.js.map",
+    "runtime-main.js": "/ilpv4-testnet-faucet/static/js/runtime-main.f54abbb0.js",
+    "runtime-main.js.map": "/ilpv4-testnet-faucet/static/js/runtime-main.f54abbb0.js.map",
+    "static/js/2.8ab47351.chunk.js": "/ilpv4-testnet-faucet/static/js/2.8ab47351.chunk.js",
+    "static/js/2.8ab47351.chunk.js.map": "/ilpv4-testnet-faucet/static/js/2.8ab47351.chunk.js.map",
+    "static/js/3.fcd36961.chunk.js": "/ilpv4-testnet-faucet/static/js/3.fcd36961.chunk.js",
+    "static/js/3.fcd36961.chunk.js.map": "/ilpv4-testnet-faucet/static/js/3.fcd36961.chunk.js.map",
+    "index.html": "/ilpv4-testnet-faucet/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ilpv4-testnet-faucet/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8ab47351.chunk.js.LICENSE.txt": "/ilpv4-testnet-faucet/static/js/2.8ab47351.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7390ecf9.js",
+    "static/js/runtime-main.f54abbb0.js",
     "static/js/2.8ab47351.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.a475cb08.chunk.js"

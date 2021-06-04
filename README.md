@@ -3,7 +3,10 @@ This project contains a React application that can be used to generate a new acc
 
 This application is accessible at https://faucet.ilpv4.dev.
 
-## Available Scripts
+If you find a bug with this faucet application, please [create an issue](https://github.com/interledger4j/ilpv4-testnet-faucet/issues).
+ Otherwise, feel free to get in touch via [one of these](https://connector.interledger4j.dev/) links.
+
+## Building the Project
 
 In the project directory, you can run:
 

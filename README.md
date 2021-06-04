@@ -1,5 +1,7 @@
 # ILPv4 Testnet Faucet
-This project contains a React application that can be used to generate a new account on the https://ilpv4.dev Interledger Testnet.
+This project contains a React application that can be used to generate a new account on the ilpv4.dev Interledger Testnet.
+
+This application is accessible at https://faucet.ilpv4.dev.
 
 ## Available Scripts
 

@@ -1,8 +1,13 @@
-# Getting Started with Create React App
+# ILPv4 Testnet Faucet
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project contains a React application that can be used to generate a new account on the ilpv4.dev Interledger Testnet.
 
-## Available Scripts
+This application is accessible at https://faucet.ilpv4.dev.
+
+If you find a bug with this faucet application, please [create an issue](https://github.com/interledger4j/ilpv4-testnet-faucet/issues).
+ Otherwise, feel free to get in touch via [one of these](https://connector.interledger4j.dev/) links.
+
+## Building the Project
 
 In the project directory, you can run:
 
@@ -42,9 +47,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ### `npm run deploy` (Deploy to GH Pages)
 
 Deploys the app to GH Pages.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).

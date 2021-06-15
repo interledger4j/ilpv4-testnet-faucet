@@ -10,6 +10,8 @@ If you find a bug with this faucet application, please [create an issue](https:/
 ## Building the Project
 
 In the project directory, you can run:
+### `npm install`
+Installs all dependencies.
 
 ### `npm start`
 
